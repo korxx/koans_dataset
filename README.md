@@ -3,10 +3,11 @@ A kōan is a story, dialogue, or statement, which is used in Zen practice to pro
 Kōans collectively form a substantial body of literature studied by Zen practitioners and scholars worldwide. Kōan collections commonly referenced in English include The Blue Cliff Record, The Book of Equanimity, The Gateless Gate, The True Dharma Eye and The Iron Flute.
 
 This dataset attempts to preprocess those collections. 
-Blue Riff, Book of Equanimity and The Gateless Gate are preprocessed. Next one The True Dharma Eye.
+
+Blue Cliff, Book of Equanimity and The Gateless Gate are preprocessed. Next one The True Dharma Eye.
 There are around 250 examples (koans) in this dataset, for now.
 
-Formate: txt (title of each koan preceds a --!-- and every koan ends with a ----)
+Format: txt (title of each koan preceds a --!-- and every koan ends with a ----)
 
 
 <h3>Blue Cliff Record</h3>
