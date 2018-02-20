@@ -1,5 +1,5 @@
 # koans_dataset
-A kōan is a story, dialogue, or statement, which is used in Zen practive to provoke the "great doubt" and test a student's progress in Zen practice. 
+A kōan is a story, dialogue, or statement, which is used in Zen practice to provoke the "great doubt" and test a student's progress in Zen practice. 
 Kōans collectively form a substantial body of literature studied by Zen practitioners and scholars worldwide. Kōan collections commonly referenced in English include The Blue Cliff Record, The Book of Equanimity, The Gateless Gate, The True Dharma Eye and The Iron Flute.
 
 This dataset attempts to preprocess those collections. 
